@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Azure Devops**
 
-- 💬 Ask me about **C# ,.Net Core FrameWork ,MVC, WEBAPI,ADO.Net,Entity Framework, JWT Token, Angular, Blazor ,CI/CD, Azure ,C++ ,java , JavaScript**
+- 💬 Ask me about **C# , .Net Core FrameWork, MVC, WebAPI, ADO.Net, Entity Framework, JWT Token, Angular, Blazor ,CI/CD, Azure, Microsot SQL Server, C++, java, JavaScript**
 
 - 📫 How to reach me **shindepratik1663@gmail.com**
 
