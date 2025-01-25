@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratik Shinde</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pune</h3>
+<h3 align="center">A passionate Full-Stack .Net Developer from Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshinde85&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshinde85" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshinde85" alt="pratikshinde85" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Azure Devops**
 
-- 💬 Ask me about **C++ ,java , JavaScript**
+- 💬 Ask me about **C# ,.Net Core FrameWork ,MVC, WEBAPI,ADO.Net,Entity Framework, JWT Token, Angular, Blazor ,CI/CD, Azure ,C++ ,java , JavaScript**
 
 - 📫 How to reach me **shindepratik1663@gmail.com**
 
